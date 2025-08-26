@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cita-medica/static/css/main.e6c13ad2.css",
+    "main.js": "/Cita-medica/static/js/main.fa35a5bc.js",
+    "static/js/453.dcfbc869.chunk.js": "/Cita-medica/static/js/453.dcfbc869.chunk.js",
+    "index.html": "/Cita-medica/index.html",
+    "main.e6c13ad2.css.map": "/Cita-medica/static/css/main.e6c13ad2.css.map",
+    "main.fa35a5bc.js.map": "/Cita-medica/static/js/main.fa35a5bc.js.map",
+    "453.dcfbc869.chunk.js.map": "/Cita-medica/static/js/453.dcfbc869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fa35a5bc.js"
+  ]
+}
